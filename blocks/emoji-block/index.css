@@ -122,6 +122,7 @@
   position: relative;
   display: grid;
   grid-template-columns: 1fr 15em;
+  white-space: pre;
   padding: 0.13em 0;
 }
 .line:hover {
